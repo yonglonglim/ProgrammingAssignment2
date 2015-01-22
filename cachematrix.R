@@ -3,7 +3,7 @@
 ## If it has already been calculated, the second function retrives the value from the cache.
 
 ## This function creates a list containing a function to 
-## set the value of the matrix
+## set the value of the matrix 
 ## get the value of the matrix
 ## set the value of the inverse matrix
 ## get the value of the inverse matrix
